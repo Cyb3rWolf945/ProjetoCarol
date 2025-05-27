@@ -2,8 +2,14 @@
 
 Webpage that simulates the experience of shopping at an inclusive shop for the physically less-abled.
 
-It works as a single-page webapp where you can add products to a cart. No backend is required to run this project.a
+It works as a single-page webapp where you can add products to a cart. No backend is required to run this project.
+## Screenshots
 
+![Screenshot 1](assets/1.png)
+![Screenshot 2](assets/2.png)
+![Screenshot 3](assets/3.png)
+![Screenshot 4](assets/4.png)
+![Screenshot 5](assets/5.png)
 ## Building
 
 You can build it by using the following command:
