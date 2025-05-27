@@ -86,13 +86,13 @@ function Cart() {
                   </span>
                 </li>
                 <li className="flex flex-wrap gap-4 text-sm">
-                  Shipping{" "}
+                Envio{" "}
                   <span className="ml-auto font-semibold text-slate-900">
                     {shipping.toFixed(2)}€
                   </span>
                 </li>
                 <li className="flex flex-wrap gap-4 text-sm">
-                  Tax{" "}
+                  IVA{" "}
                   <span className="ml-auto font-semibold text-slate-900">
                     {tax.toFixed(2)}€
                   </span>
